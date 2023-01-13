@@ -60,9 +60,6 @@ git pull origin <브랜치명: master 등>
 ---
 
 ## 5. 브랜치 관련
-```bash
-
-```
 
 ### 5.1 브랜치 나열
 ```bash
