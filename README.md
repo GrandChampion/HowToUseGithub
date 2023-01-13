@@ -58,3 +58,36 @@ git push -u origin <master 또는 main>
 git pull origin <브랜치명: master 등>
 ```
 ---
+
+## 5. 브랜치 관련
+```bash
+
+```
+
+### 5.1 브랜치 나열
+```bash
+git branch
+```
+
+### 5.2 새로운 로컬 브랜치 만들기
+```bash
+git branch <브랜치명>
+```
+
+### 5.3 브랜치 변경하기
+```bash
+git checkout <브랜치명>
+```
+
+### 5.4 다른 브랜치에서 변경한것 병합하기
+```bash
+git checkout <브랜치명: master 등>
+git merge <변경된 브랜치명>
+```
+
+### 5.5 브랜치 삭제
+```bash
+git branch -d <브랜치명>
+```
+
+---
