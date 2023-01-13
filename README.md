@@ -57,3 +57,4 @@ git push -u origin <master 또는 main>
 ```bash
 git pull origin <브랜치명: master 등>
 ```
+---
